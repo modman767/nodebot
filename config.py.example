@@ -1,0 +1,4 @@
+TOKEN = ''
+ADMIN = ''
+COMMAND_PREFIX = '.'
+STATUS = ''
